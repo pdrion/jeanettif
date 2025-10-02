@@ -1,4 +1,4 @@
-# Convertisseur d'Images en TIFF 300 DPI
+# Convertisseur d'Images en TIFF 300 DPI pour la 🦦
 
 Un script bash simple pour convertir automatiquement vos photos (JPG, JPEG, PNG, HEIC) en format TIFF 300 DPI.
 
